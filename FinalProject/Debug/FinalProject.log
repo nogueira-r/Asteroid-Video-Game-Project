@@ -1,0 +1,9 @@
+﻿  Game.cpp
+C:\Users\rodrigo0113\source\repos\FinalProject\FinalProject\Game.cpp(60,25): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\rodrigo0113\source\repos\FinalProject\FinalProject\Game.cpp(65,25): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\rodrigo0113\source\repos\FinalProject\FinalProject\Game.cpp(70,25): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\rodrigo0113\source\repos\FinalProject\FinalProject\Game.cpp(75,25): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\rodrigo0113\source\repos\FinalProject\FinalProject\Game.cpp(176,27): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\rodrigo0113\source\repos\FinalProject\FinalProject\Game.cpp(196,46): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\rodrigo0113\source\repos\FinalProject\FinalProject\Game.cpp(204,31): warning C4244: '=': conversion from 'ULONGLONG' to 'long', possible loss of data
+  FinalProject.vcxproj -> C:\Users\rodrigo0113\source\repos\FinalProject\Debug\FinalProject.exe
