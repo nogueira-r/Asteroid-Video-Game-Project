@@ -30,4 +30,7 @@
       <Filter>Source Files</Filter>
     </ClInclude>
   </ItemGroup>
+  <ItemGroup>
+    <None Include="times_new_roman.spritefont" />
+  </ItemGroup>
 </Project>

@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.32002.261
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FinalProject", "FinalProject\FinalProject.vcxproj", "{849F1204-C4A1-4ACF-93B8-64E0BFE4E760}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DirectXTK_Desktop_2019_Win10", "..\..\..\..\..\DirectXTK-main\DirectXTK_Desktop_2019_Win10.vcxproj", "{E0B52AE7-E160-4D32-BF3F-910B785E5A8E}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DirectXTK_Desktop_2019_Win10", "..\..\..\..\..\DirectXToolKit\DirectXTK-main\DirectXTK_Desktop_2019_Win10.vcxproj", "{E0B52AE7-E160-4D32-BF3F-910B785E5A8E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
